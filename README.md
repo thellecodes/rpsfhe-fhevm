@@ -17,10 +17,7 @@ Players can:
 git clone git@github.com:thellecodes/rpsfhe-fhevm.git
 cd rpsfhe-fhevm
 
-# Install dependencies
-forge install
-
-# Set up FHEVM (make sure you're on Sepolia)
+# Set up FHEVM (make sure you're on Sepolia for deploying)
 ```
 
 ---
